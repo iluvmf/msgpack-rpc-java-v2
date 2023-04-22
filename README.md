@@ -1,6 +1,8 @@
 MessagePack-RPC for Java
 ========================
 
+This is a fork from https://github.com/msgpack-rpc/msgpack-rpc-java because the project has not been maintained for a while.
+
 ## Overview
 
 The Java implementation of MessagePack-RPC.
